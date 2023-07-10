@@ -65,8 +65,9 @@ export const TodoItem: React.FC<Props> = ({
       { completed },
     )}
     >
-      <label className="todo__status-label">
+      <label htmlFor="first" className="todo__status-label">
         <input
+          id="first"
           type="checkbox"
           className="todo__status"
           checked={completed}

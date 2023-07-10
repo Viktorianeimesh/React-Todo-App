@@ -1,5 +1,6 @@
+import React, { FormEvent, useState } from 'react';
 import classNames from 'classnames';
-import { FormEvent, useState } from 'react';
+
 import { useTodosContext } from '../context';
 
 export const Header = () => {

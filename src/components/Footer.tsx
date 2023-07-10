@@ -1,3 +1,4 @@
+import React from 'react';
 import classNames from 'classnames';
 import { Filter } from './Filter';
 import { useTodosContext } from '../context';

@@ -1,9 +1,14 @@
-# React TypeScript Starter Pack
+**Todo App **
 
-To use this template click `Use this template`
+Todo App is single-page application that allows users to order and manage their everyday tasks.
+The user can add new tasks, delete tasks, change the status of tasks, filter them by status and edit if it’s needed.
 
-### Available Scripts
+[DEMO LINK](https://Viktorianeimesh.github.io/react_todo-app/)
 
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+**Technologies used**__
+- React
+- React Router
+- TypeScript
+- JavaScript
+- HTML
+- SCSS

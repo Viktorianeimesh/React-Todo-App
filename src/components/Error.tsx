@@ -1,6 +1,5 @@
 import React, { useEffect } from 'react';
 import classNames from 'classnames';
-
 import { useTodosContext } from '../context';
 
 export const Error = () => {
